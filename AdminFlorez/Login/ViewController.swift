@@ -26,6 +26,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("Esto es de mi nueva rama de Bodgar")
         
         let layer = CAGradientLayer()
         
