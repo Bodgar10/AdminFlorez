@@ -9,23 +9,49 @@
 /* Begin PBXBuildFile section */
 		9B8EEF422A59CD3D008B3535 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF412A59CD3D008B3535 /* AppDelegate.swift */; };
 		9B8EEF442A59CD3D008B3535 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF432A59CD3D008B3535 /* SceneDelegate.swift */; };
-		9B8EEF462A59CD3D008B3535 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF452A59CD3D008B3535 /* ViewController.swift */; };
 		9B8EEF492A59CD3D008B3535 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8EEF472A59CD3D008B3535 /* Main.storyboard */; };
 		9B8EEF4C2A59CD3D008B3535 /* AdminFlorez.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF4A2A59CD3D008B3535 /* AdminFlorez.xcdatamodeld */; };
 		9B8EEF4E2A59CD3F008B3535 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B8EEF4D2A59CD3F008B3535 /* Assets.xcassets */; };
 		9B8EEF512A59CD3F008B3535 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8EEF4F2A59CD3F008B3535 /* LaunchScreen.storyboard */; };
+		9B8EEF592A59CFFD008B3535 /* Admin.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8EEF582A59CFFC008B3535 /* Admin.storyboard */; };
+		9B8EEF5B2A59D149008B3535 /* tabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF5A2A59D149008B3535 /* tabBarVC.swift */; };
+		9B8EEF672A59D1DC008B3535 /* LoginTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF5F2A59D1DB008B3535 /* LoginTableViewController.swift */; };
+		9B8EEF682A59D1DC008B3535 /* AddTarjetaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF602A59D1DC008B3535 /* AddTarjetaVC.swift */; };
+		9B8EEF692A59D1DC008B3535 /* CodigoLoginTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF612A59D1DC008B3535 /* CodigoLoginTVC.swift */; };
+		9B8EEF6A2A59D1DC008B3535 /* RegistroTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF622A59D1DC008B3535 /* RegistroTVC.swift */; };
+		9B8EEF6B2A59D1DC008B3535 /* CodigoRegistroTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF632A59D1DC008B3535 /* CodigoRegistroTVC.swift */; };
+		9B8EEF6C2A59D1DC008B3535 /* MetodoPagoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF642A59D1DC008B3535 /* MetodoPagoVC.swift */; };
+		9B8EEF6D2A59D1DC008B3535 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF652A59D1DC008B3535 /* ViewController.swift */; };
+		9B8EEF6E2A59D1DC008B3535 /* InfoAdicionalRegistroTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF662A59D1DC008B3535 /* InfoAdicionalRegistroTVC.swift */; };
+		9B8EEF702A59D41C008B3535 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF6F2A59D41C008B3535 /* Extensions.swift */; };
+		9B8EEF732A59D520008B3535 /* BajarInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF712A59D520008B3535 /* BajarInfo.swift */; };
+		9B8EEF742A59D520008B3535 /* Constantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF722A59D520008B3535 /* Constantes.swift */; };
+		9B8EEF762A59D525008B3535 /* SubirInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8EEF752A59D524008B3535 /* SubirInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9B8EEF3E2A59CD3D008B3535 /* AdminFlorez.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdminFlorez.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B8EEF412A59CD3D008B3535 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9B8EEF432A59CD3D008B3535 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9B8EEF452A59CD3D008B3535 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9B8EEF482A59CD3D008B3535 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9B8EEF4B2A59CD3D008B3535 /* AdminFlorez.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AdminFlorez.xcdatamodel; sourceTree = "<group>"; };
 		9B8EEF4D2A59CD3F008B3535 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B8EEF502A59CD3F008B3535 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B8EEF522A59CD3F008B3535 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B8EEF582A59CFFC008B3535 /* Admin.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Admin.storyboard; sourceTree = "<group>"; };
+		9B8EEF5A2A59D149008B3535 /* tabBarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tabBarVC.swift; sourceTree = "<group>"; };
+		9B8EEF5F2A59D1DB008B3535 /* LoginTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginTableViewController.swift; sourceTree = "<group>"; };
+		9B8EEF602A59D1DC008B3535 /* AddTarjetaVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTarjetaVC.swift; sourceTree = "<group>"; };
+		9B8EEF612A59D1DC008B3535 /* CodigoLoginTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodigoLoginTVC.swift; sourceTree = "<group>"; };
+		9B8EEF622A59D1DC008B3535 /* RegistroTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistroTVC.swift; sourceTree = "<group>"; };
+		9B8EEF632A59D1DC008B3535 /* CodigoRegistroTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodigoRegistroTVC.swift; sourceTree = "<group>"; };
+		9B8EEF642A59D1DC008B3535 /* MetodoPagoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MetodoPagoVC.swift; sourceTree = "<group>"; };
+		9B8EEF652A59D1DC008B3535 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9B8EEF662A59D1DC008B3535 /* InfoAdicionalRegistroTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoAdicionalRegistroTVC.swift; sourceTree = "<group>"; };
+		9B8EEF6F2A59D41C008B3535 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		9B8EEF712A59D520008B3535 /* BajarInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BajarInfo.swift; sourceTree = "<group>"; };
+		9B8EEF722A59D520008B3535 /* Constantes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constantes.swift; sourceTree = "<group>"; };
+		9B8EEF752A59D524008B3535 /* SubirInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubirInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,16 +84,37 @@
 		9B8EEF402A59CD3D008B3535 /* AdminFlorez */ = {
 			isa = PBXGroup;
 			children = (
+				9B8EEF752A59D524008B3535 /* SubirInfo.swift */,
+				9B8EEF712A59D520008B3535 /* BajarInfo.swift */,
+				9B8EEF722A59D520008B3535 /* Constantes.swift */,
+				9B8EEF5E2A59D1D2008B3535 /* Login */,
 				9B8EEF412A59CD3D008B3535 /* AppDelegate.swift */,
 				9B8EEF432A59CD3D008B3535 /* SceneDelegate.swift */,
-				9B8EEF452A59CD3D008B3535 /* ViewController.swift */,
+				9B8EEF582A59CFFC008B3535 /* Admin.storyboard */,
 				9B8EEF472A59CD3D008B3535 /* Main.storyboard */,
 				9B8EEF4D2A59CD3F008B3535 /* Assets.xcassets */,
+				9B8EEF5A2A59D149008B3535 /* tabBarVC.swift */,
 				9B8EEF4F2A59CD3F008B3535 /* LaunchScreen.storyboard */,
 				9B8EEF522A59CD3F008B3535 /* Info.plist */,
 				9B8EEF4A2A59CD3D008B3535 /* AdminFlorez.xcdatamodeld */,
+				9B8EEF6F2A59D41C008B3535 /* Extensions.swift */,
 			);
 			path = AdminFlorez;
+			sourceTree = "<group>";
+		};
+		9B8EEF5E2A59D1D2008B3535 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				9B8EEF602A59D1DC008B3535 /* AddTarjetaVC.swift */,
+				9B8EEF612A59D1DC008B3535 /* CodigoLoginTVC.swift */,
+				9B8EEF632A59D1DC008B3535 /* CodigoRegistroTVC.swift */,
+				9B8EEF662A59D1DC008B3535 /* InfoAdicionalRegistroTVC.swift */,
+				9B8EEF5F2A59D1DB008B3535 /* LoginTableViewController.swift */,
+				9B8EEF642A59D1DC008B3535 /* MetodoPagoVC.swift */,
+				9B8EEF622A59D1DC008B3535 /* RegistroTVC.swift */,
+				9B8EEF652A59D1DC008B3535 /* ViewController.swift */,
+			);
+			path = Login;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +175,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B8EEF592A59CFFD008B3535 /* Admin.storyboard in Resources */,
 				9B8EEF512A59CD3F008B3535 /* LaunchScreen.storyboard in Resources */,
 				9B8EEF4E2A59CD3F008B3535 /* Assets.xcassets in Resources */,
 				9B8EEF492A59CD3D008B3535 /* Main.storyboard in Resources */,
@@ -141,10 +189,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B8EEF462A59CD3D008B3535 /* ViewController.swift in Sources */,
 				9B8EEF422A59CD3D008B3535 /* AppDelegate.swift in Sources */,
+				9B8EEF692A59D1DC008B3535 /* CodigoLoginTVC.swift in Sources */,
+				9B8EEF732A59D520008B3535 /* BajarInfo.swift in Sources */,
+				9B8EEF6A2A59D1DC008B3535 /* RegistroTVC.swift in Sources */,
+				9B8EEF5B2A59D149008B3535 /* tabBarVC.swift in Sources */,
+				9B8EEF742A59D520008B3535 /* Constantes.swift in Sources */,
+				9B8EEF682A59D1DC008B3535 /* AddTarjetaVC.swift in Sources */,
+				9B8EEF6D2A59D1DC008B3535 /* ViewController.swift in Sources */,
 				9B8EEF442A59CD3D008B3535 /* SceneDelegate.swift in Sources */,
+				9B8EEF6C2A59D1DC008B3535 /* MetodoPagoVC.swift in Sources */,
+				9B8EEF6B2A59D1DC008B3535 /* CodigoRegistroTVC.swift in Sources */,
+				9B8EEF762A59D525008B3535 /* SubirInfo.swift in Sources */,
+				9B8EEF6E2A59D1DC008B3535 /* InfoAdicionalRegistroTVC.swift in Sources */,
 				9B8EEF4C2A59CD3D008B3535 /* AdminFlorez.xcdatamodeld in Sources */,
+				9B8EEF672A59D1DC008B3535 /* LoginTableViewController.swift in Sources */,
+				9B8EEF702A59D41C008B3535 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
